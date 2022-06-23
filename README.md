@@ -1,7 +1,1 @@
-# golang web service
-
-## 技术栈
-
-- gin
-- gorm
-- 
+# golang web service template
